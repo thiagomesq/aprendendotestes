@@ -1,3 +1,3 @@
-module github.com/thiagomesq/injecao_dependencia
+module github.com/thiagomesq/aprendendotestes/injecao_dependencia
 
 go 1.16
